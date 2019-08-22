@@ -575,6 +575,10 @@ http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.m3u8
 http://tvport.it-tele.net:8000/04c30af38965b1131a36ad5ceedbd15a?codec=mpeg4
 
 
+#EXTINF:0 tvg-id="ext" group-title="Познавательные",Earth TV World HD
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF: 0 tvg-id = "ext" group-title = "Познавательные", Silence TV WORLD HD
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Познавательные",This IS Bulgaria HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:0 tvg-id="Insight.eur" group-title="Познавательные",Insight UHD
@@ -1060,7 +1064,8 @@ http://5.8.203.183:5055/play/a017
 #EXTINF:0 tvg-id="TravelChannel.ro" group-title="Познавательные",Travel Mix
 http://77.36.61.147/hls/channel1/bitrate4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Познавательные",Earth TV World Live
-https://live.earthtv.com:7135/edge27/TWL-de/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwczovL2xpdmVjbG91ZC5lYXJ0aHR2LmNvbSI6eyJzaWQiOiJiODAwNGYxMy0wYjhhLTRlN2QtODljYy02MmFlZjNhMTY2ZDMiLCJ0aWQiOiJ6WXU0RHNFOERNYUV0NUpiMVltUDl1RlFpR2NXTTB4eSJ9LCJhdWQiOiJodHRwczovL2xpdmVjbG91ZC5lYXJ0aHR2LmNvbSJ9.JC2EThhPDClkN2spdOwQEVWAFhSJ9VgkPa1qlvS9HNY
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Познавательные",NASA TV LIVE
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Познавательные",NASA TV Media
